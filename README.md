@@ -1,0 +1,4 @@
+# SqlQueryGenerator
+
+
+gerador de sql
